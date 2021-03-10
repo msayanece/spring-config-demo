@@ -1,0 +1,5 @@
+db:
+  connection: "test-connection"
+  username: "user"
+  password: "password"
+
