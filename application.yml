@@ -1,5 +1,5 @@
 db:
-  connection: "test-connection"
-  username: "user"
+  connection: "updated-test-connection"
+  username: "username"
   password: "password"
 
